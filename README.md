@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Misael Clemente</h1>
-<h3 align="center">A passionate frontend developer from Argentina.</h3>
+<h3 align="center"> Fan of sports, videogames, anime and Messi </h3>
 
 - 🌱 I’m currently learning **AWS, Azure, TypeScript and more.**
 
